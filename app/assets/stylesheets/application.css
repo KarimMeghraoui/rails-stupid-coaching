@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+ @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto:wght@100&display=swap');
+
+ body {
+  font-family: 'Roboto', sans-serif;
+ }
